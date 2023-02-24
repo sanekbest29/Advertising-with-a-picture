@@ -53,10 +53,7 @@ def promotion_image():
                          integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
                         <title>Привет, Марс!</title>
                       </head>
-                      <body>
-                      
-                      
-                      
+                      <body>       
                         <h1>жди нас Марс!</h1>
                         <img src="{url_for('static', filename='img/mars.png')}" alt="здесь должна была быть картинка, но не нашлась">
                         <div class="text-bg-dark p-3">Человечество вырастает из детства.</div>
