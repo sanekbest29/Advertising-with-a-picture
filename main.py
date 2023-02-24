@@ -54,6 +54,7 @@ def promotion_image():
                         <title>Привет, Марс!</title>
                       </head>
                       <body>
+                      
                         <h1>жди нас Марс!</h1>
                         <img src="{url_for('static', filename='img/mars.png')}" alt="здесь должна была быть картинка, но не нашлась">
                         <div class="text-bg-dark p-3">Человечество вырастает из детства.</div>
